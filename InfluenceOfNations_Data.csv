@@ -1,0 +1,347 @@
+Name,ID,Region,GDP,Population,% Global GDP,% Global Pop,Representation Ratio,Representation Status,Status_Tooltip,Click_Label,Tooltip_Pop,Tooltip_GDP
+Afghanistan,4,Asia,17,35.7,0.01541404854518583,0.4528376557977173,0.034038795908066646,Marginalized,Marginalized (< 0.25),"0.03x Proportional Share
+(Marginalized)",0.45%,0.02%
+Albania,8,Europe,27,2.36,0.024481135924706906,0.029935486489709034,0.8177964949099064,Proportional,Proportional (0.8 - 1.25),"0.82x Proportional Share
+(Proportional)",0.03%,0.02%
+Algeria,12,Africa,264,46.81,0.23937110681935642,0.5937627638064746,0.4031426714683219,Under-Represented,Under-Represented (0.25 - 0.5),"0.40x Proportional Share
+(Under-Represented)",0.59%,0.24%
+Angola,24,Africa,80,35.12,0.0725366990361686,0.445480629457026,0.16282795309097942,Marginalized,Marginalized (< 0.25),"0.16x Proportional Share
+(Marginalized)",0.45%,0.07%
+Argentina,32,Americas,633,47.07,0.5739466311236842,0.5970607411316121,0.9612868366388992,Proportional,Proportional (0.8 - 1.25),"0.96x Proportional Share
+(Proportional)",0.60%,0.57%
+Armenia,51,Asia,26,2.99,0.023574427186754798,0.03792673923908052,0.6215780122342605,Slight Deficit,Slight Deficit (0.5 - 0.8),"0.62x Proportional Share
+(Slight Deficit)",0.04%,0.02%
+Australia,36,Oceania,1752,27.4,1.5885537088920925,0.3475560719567914,4.5706400695240434,Hyper-Represented,Hyper-Represented (> 4.0),"4.6x Proportional Share
+(Hyper-Represented)",0.35%,1.59%
+Austria,40,Europe,522,9.2,0.4733019612110002,0.11669765919717083,4.05579652982855,Hyper-Represented,Hyper-Represented (> 4.0),"4.1x Proportional Share
+(Hyper-Represented)",0.12%,0.47%
+Azerbaijan,31,Asia,74,10.18,0.06709644660845597,0.12912849680730426,0.5196099100308013,Slight Deficit,Slight Deficit (0.5 - 0.8),"0.52x Proportional Share
+(Slight Deficit)",0.13%,0.07%
+Bahamas,44,Americas,16,0.41,0.014507339807233724,0.005200656551178265,2.789520835392779,Over-Represented,Over-Represented (2.0 - 4.0),"2.8x Proportional Share
+(Over-Represented)",0.0052%,0.01%
+Bahrain,48,Asia,48,1.59,0.04352201942170117,0.020168399796032785,2.15793121228498,Over-Represented,Over-Represented (2.0 - 4.0),"2.2x Proportional Share
+(Over-Represented)",0.02%,0.04%
+Bangladesh,50,Asia,450,171.6,0.40801893207844847,2.176665034590708,0.18745141103218524,Marginalized,Marginalized (< 0.25),"0.19x Proportional Share
+(Marginalized)",2.18%,0.41%
+Belarus,112,Europe,76,9.11,0.06890986408436017,0.11555605166154632,0.5963328020776549,Slight Deficit,Slight Deficit (0.5 - 0.8),"0.60x Proportional Share
+(Slight Deficit)",0.12%,0.07%
+Belgium,56,Europe,665,11.9,0.6029613107381515,0.15094588526590574,3.9945528139172324,Over-Represented,Over-Represented (2.0 - 4.0),"4.0x Proportional Share
+(Over-Represented)",0.15%,0.60%
+Benin,204,Africa,21,13.75,0.019040883496994263,0.17441226238707597,0.10917170178514468,Marginalized,Marginalized (< 0.25),"0.11x Proportional Share
+(Marginalized)",0.17%,0.02%
+Bhutan,64,Asia,3,0.78,0.002720126213856323,0.00989393197541231,0.2749287361805383,Under-Represented,Under-Represented (0.25 - 0.5),"0.27x Proportional Share
+(Under-Represented)",0.0099%,0.0027%
+Bolivia,68,Americas,50,12.41,0.04533543689760538,0.15741499463444455,0.28799948189742125,Under-Represented,Under-Represented (0.25 - 0.5),"0.29x Proportional Share
+(Under-Represented)",0.16%,0.05%
+Bosnia and Herzegovina,70,Europe,28,3.41,0.02538784466265901,0.04325424107199484,0.5869446332534658,Slight Deficit,Slight Deficit (0.5 - 0.8),"0.59x Proportional Share
+(Slight Deficit)",0.04%,0.03%
+Botswana,72,Africa,19,2.52,0.017227466021090043,0.03196501099748592,0.5389476018777218,Slight Deficit,Slight Deficit (0.5 - 0.8),"0.54x Proportional Share
+(Slight Deficit)",0.03%,0.02%
+Brazil,76,Americas,2179,212.58,1.9757183399976426,2.696476999145063,0.7327035760453577,Slight Deficit,Slight Deficit (0.5 - 0.8),"0.73x Proportional Share
+(Slight Deficit)",2.70%,1.98%
+Brunei,96,Asia,15,0.46,0.013600631069281615,0.005834882959858541,2.330917545878477,Over-Represented,Over-Represented (2.0 - 4.0),"2.3x Proportional Share
+(Over-Represented)",0.0058%,0.01%
+Bulgaria,100,Europe,112,6.44,0.10155137865063604,0.08168836143801958,1.243156024468521,Proportional,Proportional (0.8 - 1.25),"1.2x Proportional Share
+(Proportional)",0.08%,0.10%
+Burkina Faso,854,Africa,23,23.4,0.020854300972898476,0.29681795926236926,0.07025956591280424,Marginalized,Marginalized (< 0.25),"0.07x Proportional Share
+(Marginalized)",0.30%,0.02%
+Burundi,108,Africa,2,14.05,0.0018134174759042155,0.17821762083915765,0.01017529842091672,Marginalized,Marginalized (< 0.25),"0.01x Proportional Share
+(Marginalized)",0.18%,0.0018%
+Cambodia,116,Asia,46,17.64,0.04170860194579695,0.2237550769824015,0.1864029299727459,Marginalized,Marginalized (< 0.25),"0.19x Proportional Share
+(Marginalized)",0.22%,0.04%
+Cameroon,120,Africa,51,29.1,0.04624214563555749,0.3691197698519208,0.12527680555855455,Marginalized,Marginalized (< 0.25),"0.13x Proportional Share
+(Marginalized)",0.37%,0.05%
+Canada,124,Americas,2241,41.53,2.031934281750673,0.5267884550498375,3.857211110593605,Over-Represented,Over-Represented (2.0 - 4.0),"3.9x Proportional Share
+(Over-Represented)",0.53%,2.03%
+Cape Verde,132,Africa,3,0.59,0.002720126213856323,0.007483871622427259,0.3634651088488473,Under-Represented,Under-Represented (0.25 - 0.5),"0.36x Proportional Share
+(Under-Represented)",0.0075%,0.0027%
+Cayman Islands,136,Americas,7,0.09,0.006346961165664753,0.0011416075356244972,5.559669998317552,Hyper-Represented,Hyper-Represented (> 4.0),"5.6x Proportional Share
+(Hyper-Represented)",0.0011%,0.0063%
+Central African Republic,140,Africa,3,5.33,0.002720126213856323,0.06760853516531745,0.040233473587395846,Marginalized,Marginalized (< 0.25),"0.04x Proportional Share
+(Marginalized)",0.07%,0.0027%
+Chad,148,Africa,21,18.68,0.019040883496994263,0.23694698628295122,0.08035925586433293,Marginalized,Marginalized (< 0.25),"0.08x Proportional Share
+(Marginalized)",0.24%,0.02%
+Chile,152,Americas,330,18.48,0.29921388352419553,0.2344100806482301,1.2764548465524992,Slight Surplus,Slight Surplus (1.25 - 2.0),"1.3x Proportional Share
+(Slight Surplus)",0.23%,0.30%
+China,156,Asia,18744,1408.0,16.995348584174305,17.85981566843658,0.9515970881048882,Proportional,Proportional (0.8 - 1.25),"0.95x Proportional Share
+(Proportional)",17.86%,17.00%
+Colombia,170,Americas,419,52.97,0.37991096120193313,0.6718994573558846,0.5654282899661666,Slight Deficit,Slight Deficit (0.5 - 0.8),"0.57x Proportional Share
+(Slight Deficit)",0.67%,0.38%
+Comoros,174,Africa,2,0.87,0.0018134174759042155,0.011035539511036807,0.16432522162514934,Marginalized,Marginalized (< 0.25),"0.16x Proportional Share
+(Marginalized)",0.01%,0.0018%
+Costa Rica,188,Americas,95,5.16,0.08613733010545023,0.06545216537580452,1.316034841794437,Slight Surplus,Slight Surplus (1.25 - 2.0),"1.3x Proportional Share
+(Slight Surplus)",0.07%,0.09%
+Croatia,191,Europe,93,3.86,0.084323912629546,0.04896227875011732,1.722221979493631,Slight Surplus,Slight Surplus (1.25 - 2.0),"1.7x Proportional Share
+(Slight Surplus)",0.05%,0.08%
+Cuba,192,Americas,107,9.75,0.09701783496087552,0.12367414969265388,0.7844633272351359,Slight Deficit,Slight Deficit (0.5 - 0.8),"0.78x Proportional Share
+(Slight Deficit)",0.12%,0.10%
+Cyprus,196,Europe,36,0.98,0.03264151456627588,0.012430837610133413,2.625849970050856,Over-Represented,Over-Represented (2.0 - 4.0),"2.6x Proportional Share
+(Over-Represented)",0.01%,0.03%
+Denmark,208,Europe,429,5.96,0.3889780485814542,0.07559978791468892,5.145226717043162,Hyper-Represented,Hyper-Represented (> 4.0),"5.1x Proportional Share
+(Hyper-Represented)",0.08%,0.39%
+Djibouti,262,Africa,4,1.17,0.003626834951808431,0.014840897963118462,0.2443810988271452,Marginalized,Marginalized (< 0.25),"0.24x Proportional Share
+(Marginalized)",0.01%,0.0036%
+Dominican Republic,214,Americas,124,10.8,0.11243188350606136,0.13699290427493968,0.8207131902278291,Proportional,Proportional (0.8 - 1.25),"0.82x Proportional Share
+(Proportional)",0.14%,0.11%
+Ecuador,218,Americas,125,17.97,0.11333859224401345,0.22794097127969126,0.4972278200260153,Under-Represented,Under-Represented (0.25 - 0.5),"0.50x Proportional Share
+(Under-Represented)",0.23%,0.11%
+Egypt,818,Africa,389,107.2,0.35270969906336985,1.3597814202105125,0.25938705575839216,Under-Represented,Under-Represented (0.25 - 0.5),"0.26x Proportional Share
+(Under-Represented)",1.36%,0.35%
+El Salvador,222,Americas,35,6.31,0.03173480582832377,0.08003937277545087,0.39648993648857345,Under-Represented,Under-Represented (0.25 - 0.5),"0.40x Proportional Share
+(Under-Represented)",0.08%,0.03%
+Equatorial Guinea,226,Africa,13,1.89,0.011787213593377399,0.02397375824811444,0.4916714964498516,Under-Represented,Under-Represented (0.25 - 0.5),"0.49x Proportional Share
+(Under-Represented)",0.02%,0.01%
+Eritrea,232,Africa,2,3.21,0.0018134174759042155,0.04071733543727374,0.04453674230961991,Marginalized,Marginalized (< 0.25),"0.04x Proportional Share
+(Marginalized)",0.04%,0.0018%
+Estonia,233,Europe,43,1.38,0.03898847573194063,0.017504648879575622,2.2273212105061004,Over-Represented,Over-Represented (2.0 - 4.0),"2.2x Proportional Share
+(Over-Represented)",0.02%,0.04%
+Ethiopia,231,Africa,164,132.06,0.14870023302414564,1.6751187906063458,0.08876996297696615,Marginalized,Marginalized (< 0.25),"0.09x Proportional Share
+(Marginalized)",1.68%,0.15%
+Fiji,242,Oceania,6,0.93,0.005440252427712646,0.01179661120145314,0.46117078327058036,Under-Represented,Under-Represented (0.25 - 0.5),"0.46x Proportional Share
+(Under-Represented)",0.01%,0.0054%
+Finland,246,Europe,300,5.6,0.2720126213856323,0.07103335777219093,3.8293645396574987,Over-Represented,Over-Represented (2.0 - 4.0),"3.8x Proportional Share
+(Over-Represented)",0.07%,0.27%
+France,250,Europe,3162,68.44,2.8670130294045646,0.8681291082015621,3.3025191786783195,Over-Represented,Over-Represented (2.0 - 4.0),"3.3x Proportional Share
+(Over-Represented)",0.87%,2.87%
+Gabon,266,Africa,21,2.54,0.019040883496994263,0.03221870156095803,0.5909885431282439,Slight Deficit,Slight Deficit (0.5 - 0.8),"0.59x Proportional Share
+(Slight Deficit)",0.03%,0.02%
+Gambia,270,Africa,3,2.76,0.002720126213856323,0.035009297759151244,0.07769725152928257,Marginalized,Marginalized (< 0.25),"0.08x Proportional Share
+(Marginalized)",0.04%,0.0027%
+Georgia,268,Asia,34,3.71,0.03082809709037166,0.0470595995240765,0.655086260872226,Slight Deficit,Slight Deficit (0.5 - 0.8),"0.66x Proportional Share
+(Slight Deficit)",0.05%,0.03%
+Germany,276,Europe,4660,83.6,4.225262718856822,1.0604265553134218,3.984493501870099,Over-Represented,Over-Represented (2.0 - 4.0),"4.0x Proportional Share
+(Over-Represented)",1.06%,4.23%
+Ghana,288,Africa,83,34.43,0.07525682525002493,0.43672830501723825,0.1723195505889055,Marginalized,Marginalized (< 0.25),"0.17x Proportional Share
+(Marginalized)",0.44%,0.08%
+Greece,300,Europe,257,10.41,0.23302414565369167,0.13204593828723352,1.764720283533484,Slight Surplus,Slight Surplus (1.25 - 2.0),"1.8x Proportional Share
+(Slight Surplus)",0.13%,0.23%
+Guatemala,320,Americas,113,17.84,0.10245808738858816,0.22629198261712255,0.45276940969642465,Under-Represented,Under-Represented (0.25 - 0.5),"0.45x Proportional Share
+(Under-Represented)",0.23%,0.10%
+Guinea,324,Africa,25,13.99,0.02266771844880269,0.1774565491487413,0.1277367251732308,Marginalized,Marginalized (< 0.25),"0.13x Proportional Share
+(Marginalized)",0.18%,0.02%
+Guyana,328,Americas,25,0.78,0.02266771844880269,0.00989393197541231,2.2910728015044857,Over-Represented,Over-Represented (2.0 - 4.0),"2.3x Proportional Share
+(Over-Represented)",0.0099%,0.02%
+Haiti,332,Americas,25,11.9,0.02266771844880269,0.15094588526590574,0.15017115841794107,Marginalized,Marginalized (< 0.25),"0.15x Proportional Share
+(Marginalized)",0.15%,0.02%
+Honduras,340,Americas,37,9.89,0.033548223304227985,0.12544998363695864,0.267423098286833,Under-Represented,Under-Represented (0.25 - 0.5),"0.27x Proportional Share
+(Under-Represented)",0.13%,0.03%
+Hong Kong,344,Asia,407,7.53,0.36903045634650783,0.0955144971472496,3.8636067546646164,Over-Represented,Over-Represented (2.0 - 4.0),"3.9x Proportional Share
+(Over-Represented)",0.10%,0.37%
+Hungary,348,Europe,223,9.58,0.20219604856332002,0.12151777990314094,1.663921516048811,Slight Surplus,Slight Surplus (1.25 - 2.0),"1.7x Proportional Share
+(Slight Surplus)",0.12%,0.20%
+Iceland,352,Europe,33,0.39,0.029921388352419552,0.004946965987706155,6.048432195971842,Hyper-Represented,Hyper-Represented (> 4.0),"6.0x Proportional Share
+(Hyper-Represented)",0.0049%,0.03%
+India,356,Asia,3913,1398.6,3.547951291606597,17.740581103604686,0.19999070328568286,Marginalized,Marginalized (< 0.25),"0.20x Proportional Share
+(Marginalized)",17.74%,3.55%
+Indonesia,360,Asia,1396,281.6,1.2657653981811423,3.571963133687316,0.35436127160542674,Under-Represented,Under-Represented (0.25 - 0.5),"0.35x Proportional Share
+(Under-Represented)",3.57%,1.27%
+Iran,364,Asia,437,86.0,0.396231718485071,1.0908694229300753,0.36322561633526457,Under-Represented,Under-Represented (0.25 - 0.5),"0.36x Proportional Share
+(Under-Represented)",1.09%,0.40%
+Iraq,368,Asia,280,46.04,0.25387844662659015,0.5839956771127984,0.434726585446203,Under-Represented,Under-Represented (0.25 - 0.5),"0.43x Proportional Share
+(Under-Represented)",0.58%,0.25%
+Ireland,372,Europe,577,5.44,0.5231709417983661,0.06900383326441406,7.5817663606257995,Hyper-Represented,Hyper-Represented (> 4.0),"7.6x Proportional Share
+(Hyper-Represented)",0.07%,0.52%
+Israel,376,Asia,540,9.97,0.48962271849413813,0.1264647458908471,3.871614298871371,Over-Represented,Over-Represented (2.0 - 4.0),"3.9x Proportional Share
+(Over-Represented)",0.13%,0.49%
+Italy,380,Europe,2373,58.93,2.1516198351603513,0.7474992452705735,2.8784240904236977,Over-Represented,Over-Represented (2.0 - 4.0),"2.9x Proportional Share
+(Over-Represented)",0.75%,2.15%
+Ivory Coast,384,Africa,87,31.93,0.07888366020183336,0.4050169845832244,0.19476630167252668,Marginalized,Marginalized (< 0.25),"0.19x Proportional Share
+(Marginalized)",0.41%,0.08%
+Jamaica,388,Americas,20,2.82,0.01813417475904215,0.035770369449567574,0.5069607901201416,Slight Deficit,Slight Deficit (0.5 - 0.8),"0.51x Proportional Share
+(Slight Deficit)",0.04%,0.02%
+Japan,392,Asia,4026,120.65,3.6504093789951857,1.5303883241455067,2.38528308234016,Over-Represented,Over-Represented (2.0 - 4.0),"2.4x Proportional Share
+(Over-Represented)",1.53%,3.65%
+Jordan,400,Asia,53,11.73,0.04805556311146171,0.14878951547639283,0.3229768102785863,Under-Represented,Under-Represented (0.25 - 0.5),"0.32x Proportional Share
+(Under-Represented)",0.15%,0.05%
+Kazakhstan,398,Asia,288,20.27,0.261132116530207,0.257115386078984,1.0156222873803014,Proportional,Proportional (0.8 - 1.25),"1.0x Proportional Share
+(Proportional)",0.26%,0.26%
+Kenya,404,Africa,125,52.4,0.11333859224401345,0.6646692762969295,0.17051877721121173,Marginalized,Marginalized (< 0.25),"0.17x Proportional Share
+(Marginalized)",0.66%,0.11%
+Kosovo,383,Europe,11,1.6,0.009973796117473184,0.02029524507776884,0.4914351159227122,Under-Represented,Under-Represented (0.25 - 0.5),"0.49x Proportional Share
+(Under-Represented)",0.02%,0.0100%
+Kuwait,414,Asia,160,4.79,0.1450733980723372,0.06075888995157047,2.387690067872733,Over-Represented,Over-Represented (2.0 - 4.0),"2.4x Proportional Share
+(Over-Represented)",0.06%,0.15%
+Kyrgyzstan,417,Asia,17,7.3,0.01541404854518583,0.09259705566732034,0.16646370053670947,Marginalized,Marginalized (< 0.25),"0.17x Proportional Share
+(Marginalized)",0.09%,0.02%
+Laos,418,Asia,17,7.65,0.01541404854518583,0.09703664052808228,0.15884771423764432,Marginalized,Marginalized (< 0.25),"0.16x Proportional Share
+(Marginalized)",0.10%,0.02%
+Latvia,428,Europe,44,1.87,0.039895184469892736,0.023720067684642333,1.6819169742809401,Slight Surplus,Slight Surplus (1.25 - 2.0),"1.7x Proportional Share
+(Slight Surplus)",0.02%,0.04%
+Lebanon,422,Asia,20,5.8,0.01813417475904215,0.07357026340691204,0.24648783243772399,Marginalized,Marginalized (< 0.25),"0.25x Proportional Share
+(Marginalized)",0.07%,0.02%
+Lesotho,426,Africa,2,2.34,0.0018134174759042155,0.029681795926236924,0.0610952747067863,Marginalized,Marginalized (< 0.25),"0.06x Proportional Share
+(Marginalized)",0.03%,0.0018%
+Liberia,430,Africa,5,5.61,0.004533543689760538,0.071160203053927,0.06370897629852046,Marginalized,Marginalized (< 0.25),"0.06x Proportional Share
+(Marginalized)",0.07%,0.0045%
+Libya,434,Africa,47,7.38,0.04261531068374906,0.09361181792120878,0.4552343029981271,Under-Represented,Under-Represented (0.25 - 0.5),"0.46x Proportional Share
+(Under-Represented)",0.09%,0.04%
+Liechtenstein,438,Europe,8,0.04,0.007253669903616862,0.000507381126944221,14.296294281387993,Hyper-Represented,Hyper-Represented (> 4.0),"14.3x Proportional Share
+(Hyper-Represented)",0.0005%,0.0073%
+Lithuania,440,Europe,85,2.89,0.07707024272592915,0.03665828642171997,2.102396217851175,Over-Represented,Over-Represented (2.0 - 4.0),"2.1x Proportional Share
+(Over-Represented)",0.04%,0.08%
+Luxembourg,442,Europe,93,0.67,0.084323912629546,0.008498633876315703,9.92205498633644,Hyper-Represented,Hyper-Represented (> 4.0),"9.9x Proportional Share
+(Hyper-Represented)",0.0085%,0.08%
+Macau,446,Asia,50,0.69,0.04533543689760538,0.008752324439787811,5.179816768618838,Hyper-Represented,Hyper-Represented (> 4.0),"5.2x Proportional Share
+(Hyper-Represented)",0.0088%,0.05%
+Madagascar,450,Africa,17,31.96,0.01541404854518583,0.4053975204284326,0.038022059259010615,Marginalized,Marginalized (< 0.25),"0.04x Proportional Share
+(Marginalized)",0.41%,0.02%
+Malawi,454,Africa,11,20.3,0.009973796117473184,0.2574959219241922,0.03873380224021376,Marginalized,Marginalized (< 0.25),"0.04x Proportional Share
+(Marginalized)",0.26%,0.0100%
+Malaysia,458,Asia,422,34.1,0.38263108741578944,0.4325424107199484,0.884609411546295,Proportional,Proportional (0.8 - 1.25),"0.88x Proportional Share
+(Proportional)",0.43%,0.38%
+Maldives,462,Asia,7,0.53,0.006346961165664753,0.006722799932010928,0.9440949053746786,Proportional,Proportional (0.8 - 1.25),"0.94x Proportional Share
+(Proportional)",0.0067%,0.0063%
+Mali,466,Africa,27,24.48,0.024481135924706906,0.3105172496898633,0.07883985816941906,Marginalized,Marginalized (< 0.25),"0.08x Proportional Share
+(Marginalized)",0.31%,0.02%
+Malta,470,Europe,24,0.57,0.021761009710850585,0.007230181058955149,3.0097461645027352,Over-Represented,Over-Represented (2.0 - 4.0),"3.0x Proportional Share
+(Over-Represented)",0.0072%,0.02%
+Mauritania,478,Africa,11,5.17,0.009973796117473184,0.06557901065754057,0.15208823703604243,Marginalized,Marginalized (< 0.25),"0.15x Proportional Share
+(Marginalized)",0.07%,0.0100%
+Mauritius,480,Africa,15,1.26,0.013600631069281615,0.01598250549874296,0.8509698977016662,Proportional,Proportional (0.8 - 1.25),"0.85x Proportional Share
+(Proportional)",0.02%,0.01%
+Mexico,484,Americas,1853,130.86,1.6801312914252555,1.659897356798019,1.0121898709847146,Proportional,Proportional (0.8 - 1.25),"1.0x Proportional Share
+(Proportional)",1.66%,1.68%
+Moldova,498,Europe,18,2.42,0.01632075728313794,0.03069655818012537,0.5316803658367435,Slight Deficit,Slight Deficit (0.5 - 0.8),"0.53x Proportional Share
+(Slight Deficit)",0.03%,0.02%
+Monaco,492,Europe,10,0.04,0.009067087379521076,0.000507381126944221,17.87036785173499,Hyper-Represented,Hyper-Represented (> 4.0),"17.9x Proportional Share
+(Hyper-Represented)",0.0005%,0.0091%
+Mongolia,496,Asia,24,3.54,0.021761009710850585,0.04490322973456356,0.48462014513179635,Under-Represented,Under-Represented (0.25 - 0.5),"0.48x Proportional Share
+(Under-Represented)",0.04%,0.02%
+Montenegro,499,Europe,8,0.62,0.007253669903616862,0.007864407467635426,0.9223415665411608,Proportional,Proportional (0.8 - 1.25),"0.92x Proportional Share
+(Proportional)",0.0079%,0.0073%
+Morocco,504,Africa,154,37.37,0.1396331456446246,0.4740208178476385,0.2945717580055861,Under-Represented,Under-Represented (0.25 - 0.5),"0.29x Proportional Share
+(Under-Represented)",0.47%,0.14%
+Mozambique,508,Africa,22,33.24,0.019947592234946368,0.4216337164906477,0.04731023980002042,Marginalized,Marginalized (< 0.25),"0.05x Proportional Share
+(Marginalized)",0.42%,0.02%
+Myanmar,104,Asia,74,54.5,0.06709644660845597,0.691306785461501,0.09705741071767995,Marginalized,Marginalized (< 0.25),"0.10x Proportional Share
+(Marginalized)",0.69%,0.07%
+Namibia,516,Africa,13,2.69,0.011787213593377399,0.03412138078699886,0.3454494900707135,Under-Represented,Under-Represented (0.25 - 0.5),"0.35x Proportional Share
+(Under-Represented)",0.03%,0.01%
+Nepal,524,Asia,43,29.65,0.03898847573194063,0.37609626034740384,0.10366621485660768,Marginalized,Marginalized (< 0.25),"0.10x Proportional Share
+(Marginalized)",0.38%,0.04%
+Netherlands,528,Europe,1228,18.04,1.113438330205188,0.22882888825184367,4.865811911736267,Hyper-Represented,Hyper-Represented (> 4.0),"4.9x Proportional Share
+(Hyper-Represented)",0.23%,1.11%
+New Caledonia,540,Oceania,10,0.29,0.009067087379521076,0.0036785131703456018,2.46487832437724,Over-Represented,Over-Represented (2.0 - 4.0),"2.5x Proportional Share
+(Over-Represented)",0.0037%,0.0091%
+New Zealand,554,Oceania,260,5.36,0.23574427186754798,0.06798907101052562,3.4673848070530573,Over-Represented,Over-Represented (2.0 - 4.0),"3.5x Proportional Share
+(Over-Represented)",0.07%,0.24%
+Nicaragua,558,Americas,20,6.87,0.01813417475904215,0.08714270855266995,0.20809744223272186,Marginalized,Marginalized (< 0.25),"0.21x Proportional Share
+(Marginalized)",0.09%,0.02%
+Niger,562,Africa,20,27.03,0.01813417475904215,0.34286279653255736,0.05289047088933774,Marginalized,Marginalized (< 0.25),"0.05x Proportional Share
+(Marginalized)",0.34%,0.02%
+Nigeria,566,Africa,188,232.68,0.17046124273499624,2.9514360154345334,0.057755357677947025,Marginalized,Marginalized (< 0.25),"0.06x Proportional Share
+(Marginalized)",2.95%,0.17%
+Norway,578,Europe,484,5.55,0.43884702916882007,0.07039913136351067,6.2336994884610695,Hyper-Represented,Hyper-Represented (> 4.0),"6.2x Proportional Share
+(Hyper-Represented)",0.07%,0.44%
+Oman,512,Asia,107,5.27,0.09701783496087552,0.06684746347490111,1.4513315826456499,Slight Surplus,Slight Surplus (1.25 - 2.0),"1.5x Proportional Share
+(Slight Surplus)",0.07%,0.10%
+Pakistan,586,Asia,373,251.27,0.3382023592561362,3.1872413941818603,0.10611130988493893,Marginalized,Marginalized (< 0.25),"0.11x Proportional Share
+(Marginalized)",3.19%,0.34%
+Palestine,275,Asia,14,5.61,0.012693922331329505,0.071160203053927,0.17838513363585728,Marginalized,Marginalized (< 0.25),"0.18x Proportional Share
+(Marginalized)",0.07%,0.01%
+Panama,591,Americas,86,4.52,0.07797695146388126,0.057334067344696975,1.3600456949108044,Slight Surplus,Slight Surplus (1.25 - 2.0),"1.4x Proportional Share
+(Slight Surplus)",0.06%,0.08%
+Papua New Guinea,598,Oceania,33,10.58,0.029921388352419552,0.13420230807674643,0.2229573304753326,Marginalized,Marginalized (< 0.25),"0.22x Proportional Share
+(Marginalized)",0.13%,0.03%
+Paraguay,600,Americas,44,7.66,0.039895184469892736,0.09716348580981832,0.41059853027485094,Under-Represented,Under-Represented (0.25 - 0.5),"0.41x Proportional Share
+(Under-Represented)",0.10%,0.04%
+Peru,604,Americas,289,34.04,0.2620388252681591,0.4317813390295321,0.6068785322152069,Slight Deficit,Slight Deficit (0.5 - 0.8),"0.61x Proportional Share
+(Slight Deficit)",0.43%,0.26%
+Philippines,608,Asia,462,112.9,0.4188994369338737,1.432083230800064,0.2925105384411537,Under-Represented,Under-Represented (0.25 - 0.5),"0.29x Proportional Share
+(Under-Represented)",1.43%,0.42%
+Poland,616,Europe,915,36.5,0.8296384952261785,0.46298527833660164,1.791932776365755,Slight Surplus,Slight Surplus (1.25 - 2.0),"1.8x Proportional Share
+(Slight Surplus)",0.46%,0.83%
+Portugal,620,Europe,309,10.75,0.28017300002720125,0.1363586778662594,2.054676712999483,Over-Represented,Over-Represented (2.0 - 4.0),"2.1x Proportional Share
+(Over-Represented)",0.14%,0.28%
+Puerto Rico,630,Americas,126,3.2,0.11424530098196556,0.04059049015553768,2.814582936648261,Over-Represented,Over-Represented (2.0 - 4.0),"2.8x Proportional Share
+(Over-Represented)",0.04%,0.11%
+Qatar,634,Asia,218,3.12,0.19766250487355946,0.03957572790164924,4.994538707279779,Hyper-Represented,Hyper-Represented (> 4.0),"5.0x Proportional Share
+(Hyper-Represented)",0.04%,0.20%
+Republic of the Congo,178,Africa,16,6.33,0.014507339807233724,0.08029306333892297,0.18067986453570922,Marginalized,Marginalized (< 0.25),"0.18x Proportional Share
+(Marginalized)",0.08%,0.01%
+Romania,642,Europe,383,19.04,0.34726944663565723,0.24151341642544918,1.437888841851786,Slight Surplus,Slight Surplus (1.25 - 2.0),"1.4x Proportional Share
+(Slight Surplus)",0.24%,0.35%
+Russia,643,Europe,2174,146.2,1.971184796307882,1.8544780189811274,1.0629324133973153,Proportional,Proportional (0.8 - 1.25),"1.1x Proportional Share
+(Proportional)",1.85%,1.97%
+Rwanda,646,Africa,14,13.8,0.012693922331329505,0.17504648879575624,0.07251743476066372,Marginalized,Marginalized (< 0.25),"0.07x Proportional Share
+(Marginalized)",0.18%,0.01%
+Saudi Arabia,682,Asia,1238,35.3,1.1225054175847091,0.447763844528275,2.5069139263963645,Over-Represented,Over-Represented (2.0 - 4.0),"2.5x Proportional Share
+(Over-Represented)",0.45%,1.12%
+Senegal,686,Africa,32,18.8,0.029014679614467447,0.2384691296637839,0.12167058962883397,Marginalized,Marginalized (< 0.25),"0.12x Proportional Share
+(Marginalized)",0.24%,0.03%
+Serbia,688,Europe,89,6.57,0.08069707767773758,0.0833373501005883,0.9683182580239963,Proportional,Proportional (0.8 - 1.25),"0.97x Proportional Share
+(Proportional)",0.08%,0.08%
+Seychelles,690,Africa,2,0.1,0.0018134174759042155,0.0012684528173605525,1.4296294281387993,Slight Surplus,Slight Surplus (1.25 - 2.0),"1.4x Proportional Share
+(Slight Surplus)",0.0013%,0.0018%
+Sierra Leone,694,Africa,8,8.64,0.007253669903616862,0.10959432341995175,0.06618654759901847,Marginalized,Marginalized (< 0.25),"0.07x Proportional Share
+(Marginalized)",0.11%,0.0073%
+Singapore,702,Asia,547,6.04,0.4959696796598028,0.07661455016857738,6.473570340992739,Hyper-Represented,Hyper-Represented (> 4.0),"6.5x Proportional Share
+(Hyper-Represented)",0.08%,0.50%
+Slovakia,703,Europe,142,5.42,0.1287526407891993,0.06875014270094194,1.87276179700839,Slight Surplus,Slight Surplus (1.25 - 2.0),"1.9x Proportional Share
+(Slight Surplus)",0.07%,0.13%
+Slovenia,705,Europe,72,2.12,0.06528302913255175,0.026891199728043713,2.4276726138206026,Over-Represented,Over-Represented (2.0 - 4.0),"2.4x Proportional Share
+(Over-Represented)",0.03%,0.07%
+Somalia,706,Africa,12,19.01,0.010880504855425292,0.24113288058024104,0.04512244381290265,Marginalized,Marginalized (< 0.25),"0.05x Proportional Share
+(Marginalized)",0.24%,0.01%
+South Africa,710,Africa,400,63.02,0.36268349518084303,0.7993789655006202,0.45370657827318284,Under-Represented,Under-Represented (0.25 - 0.5),"0.45x Proportional Share
+(Under-Represented)",0.80%,0.36%
+South Korea,410,Asia,1713,51.75,1.5531920681119604,0.656424332984086,2.366140299905085,Over-Represented,Over-Represented (2.0 - 4.0),"2.4x Proportional Share
+(Over-Represented)",0.66%,1.55%
+South Sudan,728,Africa,12,11.94,0.010880504855425292,0.15145326639284998,0.07184067478084417,Marginalized,Marginalized (< 0.25),"0.07x Proportional Share
+(Marginalized)",0.15%,0.01%
+Spain,724,Europe,1723,49.08,1.5622591554914815,0.6225566427605591,2.509424923271344,Over-Represented,Over-Represented (2.0 - 4.0),"2.5x Proportional Share
+(Over-Represented)",0.62%,1.56%
+Sri Lanka,144,Asia,99,23.1,0.08976416505725866,0.2930126008102876,0.30634916317259986,Under-Represented,Under-Represented (0.25 - 0.5),"0.31x Proportional Share
+(Under-Represented)",0.29%,0.09%
+Sudan,729,Africa,50,50.45,0.04533543689760538,0.6399344463583988,0.07084387651827546,Marginalized,Marginalized (< 0.25),"0.07x Proportional Share
+(Marginalized)",0.64%,0.05%
+Suriname,740,Americas,5,0.63,0.004533543689760538,0.00799125274937148,0.567313265134444,Slight Deficit,Slight Deficit (0.5 - 0.8),"0.57x Proportional Share
+(Slight Deficit)",0.0080%,0.0045%
+Sweden,752,Europe,610,10.59,0.5530923301507857,0.1343291533584825,4.117440751485683,Hyper-Represented,Hyper-Represented (> 4.0),"4.1x Proportional Share
+(Hyper-Represented)",0.13%,0.55%
+Switzerland,756,Europe,937,9.05,0.8495860874611249,0.11479497997113002,7.400899304784832,Hyper-Represented,Hyper-Represented (> 4.0),"7.4x Proportional Share
+(Hyper-Represented)",0.11%,0.85%
+Syria,760,Asia,20,24.67,0.01813417475904215,0.31292731004284835,0.057950118692290185,Marginalized,Marginalized (< 0.25),"0.06x Proportional Share
+(Marginalized)",0.31%,0.02%
+Taiwan,158,Asia,757,23.4,0.6863785146297455,0.29681795926236926,2.3124561476518615,Over-Represented,Over-Represented (2.0 - 4.0),"2.3x Proportional Share
+(Over-Represented)",0.30%,0.69%
+Tajikistan,762,Asia,14,10.5,0.012693922331329505,0.13318754582285802,0.0953086285425866,Marginalized,Marginalized (< 0.25),"0.10x Proportional Share
+(Marginalized)",0.13%,0.01%
+Tanzania,834,Africa,79,66.28,0.07162999029821651,0.8407305273465742,0.08519970188817527,Marginalized,Marginalized (< 0.25),"0.09x Proportional Share
+(Marginalized)",0.84%,0.07%
+Thailand,764,Asia,526,66.05,0.4769287961628086,0.8378130858666449,0.5692544127184014,Slight Deficit,Slight Deficit (0.5 - 0.8),"0.57x Proportional Share
+(Slight Deficit)",0.84%,0.48%
+Togo,768,Africa,10,9.52,0.009067087379521076,0.12075670821272459,0.07508557920897053,Marginalized,Marginalized (< 0.25),"0.08x Proportional Share
+(Marginalized)",0.12%,0.0091%
+Trinidad and Tobago,780,Americas,26,1.37,0.023574427186754798,0.017377803597839574,1.3565826690368163,Slight Surplus,Slight Surplus (1.25 - 2.0),"1.4x Proportional Share
+(Slight Surplus)",0.02%,0.02%
+Tunisia,788,Africa,53,11.89,0.04805556311146171,0.1508190399841697,0.3186306126633993,Under-Represented,Under-Represented (0.25 - 0.5),"0.32x Proportional Share
+(Under-Represented)",0.15%,0.05%
+Turkey,792,Asia,1323,85.67,1.1995756603106384,1.0866835286327854,1.1038868527066834,Proportional,Proportional (0.8 - 1.25),"1.1x Proportional Share
+(Proportional)",1.09%,1.20%
+Turkmenistan,795,Asia,64,7.49,0.058029359228934894,0.09500711602030538,0.6107896088176445,Slight Deficit,Slight Deficit (0.5 - 0.8),"0.61x Proportional Share
+(Slight Deficit)",0.10%,0.06%
+Uganda,800,Africa,54,50.02,0.04896227184941381,0.6344800992437484,0.07716912147090679,Marginalized,Marginalized (< 0.25),"0.08x Proportional Share
+(Marginalized)",0.63%,0.05%
+Ukraine,804,Europe,191,41.21,0.17318136894885255,0.5227294060342838,0.3313021363437401,Under-Represented,Under-Represented (0.25 - 0.5),"0.33x Proportional Share
+(Under-Represented)",0.52%,0.17%
+United Arab Emirates,784,Asia,537,10.88,0.4869025922802818,0.13800766652882812,3.528083653081503,Over-Represented,Over-Represented (2.0 - 4.0),"3.5x Proportional Share
+(Over-Represented)",0.14%,0.49%
+United Kingdom,826,Europe,3644,69.23,3.30404664109748,0.8781498854587106,3.7625087650857885,Over-Represented,Over-Represented (2.0 - 4.0),"3.8x Proportional Share
+(Over-Represented)",0.88%,3.30%
+United States,840,Americas,29185,341.15,26.46229451713226,4.327326786425525,6.115159733289,Hyper-Represented,Hyper-Represented (> 4.0),"6.1x Proportional Share
+(Hyper-Represented)",4.33%,26.46%
+Uruguay,858,Americas,81,3.57,0.07344340777412071,0.04528376557977172,1.6218485109137637,Slight Surplus,Slight Surplus (1.25 - 2.0),"1.6x Proportional Share
+(Slight Surplus)",0.05%,0.07%
+Uzbekistan,860,Asia,115,36.8,0.10427150486449238,0.4667906367886833,0.22337959814668737,Marginalized,Marginalized (< 0.25),"0.22x Proportional Share
+(Marginalized)",0.47%,0.10%
+Venezuela,862,Americas,112,34.09,0.10155137865063604,0.43241556543821236,0.2348467233082216,Marginalized,Marginalized (< 0.25),"0.23x Proportional Share
+(Marginalized)",0.43%,0.10%
+Vietnam,704,Asia,476,101.3,0.43159335926520326,1.2849427039862396,0.33588529506123815,Under-Represented,Under-Represented (0.25 - 0.5),"0.34x Proportional Share
+(Under-Represented)",1.28%,0.43%
+Yemen,887,Asia,19,40.58,0.017227466021090043,0.5147381532849122,0.03346840701655641,Marginalized,Marginalized (< 0.25),"0.03x Proportional Share
+(Marginalized)",0.51%,0.02%
+Zambia,894,Africa,26,19.7,0.023574427186754798,0.24988520502002887,0.09434102825281414,Marginalized,Marginalized (< 0.25),"0.09x Proportional Share
+(Marginalized)",0.25%,0.02%
+Zimbabwe,716,Africa,44,15.18,0.039895184469892736,0.19255113767533186,0.2071926707447535,Marginalized,Marginalized (< 0.25),"0.21x Proportional Share
+(Marginalized)",0.19%,0.04%
